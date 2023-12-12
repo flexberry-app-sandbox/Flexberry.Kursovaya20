@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Перечень услуг",
+  "name": "IISKursovaya20ПереченьУслугE",
+  "className": "ПереченьУслугE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya20-перечень-услуг",
+      "modelProjection": "ПереченьУслугE"
+    }
+  ]
+}

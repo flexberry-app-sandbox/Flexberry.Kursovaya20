@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya20-перечень-услуг-e",
+  "editForm": "i-i-s-kursovaya20-перечень-услуг-e",
+  "external": false,
+  "caption": "Перечень услуг",
+  "name": "IISKursovaya20ПереченьУслугL",
+  "className": "ПереченьУслугL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya20-перечень-услуг",
+      "modelProjection": "ПереченьУслугL"
+    }
+  ]
+}

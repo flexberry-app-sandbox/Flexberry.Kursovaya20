@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Дир отд по раб с кл",
+  "name": "IISKursovaya20ДирОтдПоРабСКлE",
+  "className": "ДирОтдПоРабСКлE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya20-дир-отд-по-раб-с-кл",
+      "modelProjection": "ДирОтдПоРабСКлE"
+    }
+  ]
+}

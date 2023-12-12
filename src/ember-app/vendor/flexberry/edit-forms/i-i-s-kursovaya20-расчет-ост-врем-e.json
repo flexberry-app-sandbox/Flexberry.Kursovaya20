@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Расчет ост врем",
+  "name": "IISKursovaya20РасчетОстВремE",
+  "className": "РасчетОстВремE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya20-расчет-ост-врем",
+      "modelProjection": "РасчетОстВремE"
+    }
+  ]
+}
